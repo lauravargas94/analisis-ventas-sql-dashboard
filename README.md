@@ -44,3 +44,18 @@ Las consultas SQL utilizadas permitieron responder preguntas clave como:
 - ¿Cuál es el ticket promedio por cliente?
 
 Puedes ver el script completo aquí  [`analisis_leroy.sql`](./analisis_leroy.sql)
+
+## 🖼️ Vista del dashboard (Power BI)
+
+| Resumen Ejecutivo | Análisis de Ventas | Análisis de Clientes |
+|-------------------|--------------------|-----------------------|
+| ![](imagenes/resumen-ejecutivo.png) | ![](imagenes/analisis-de-ventas.png) | ![](imagenes/analisis-de-clientes.png) |
+
+## 📌 Principales hallazgos
+
+- La categoría **Herramientas** fue la más vendida.
+- **Barcelona** lideró en ventas, seguida por Sevilla y Madrid.
+- El **destornillador** fue el producto más vendido.
+- La mayoría de los clientes fueron **frecuentes**.
+- El mes con mayor facturación fue **enero**.
+- El ticket promedio más alto por cliente superó los **2.3 millones** (simulados).
